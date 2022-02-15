@@ -1,5 +1,6 @@
 import { StarIcon } from '@chakra-ui/icons';
 import { Box, LinkBox, LinkOverlay, Text, Image, Button, Flex, Icon } from '@chakra-ui/react'
+import { Global } from '@emotion/react';
 //import Image from 'next/image'
 import NextLink from 'next/link'
 import React from 'react'
